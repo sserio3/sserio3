@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @sserio3
+- 👋 Hi, My name is Sianna Serio. Here on GitHub, I'm @sserio3
 - 👀 I’m interested in Artificial Intelligence and Machine Learning, specifically Natural Language Processing. I am also interested in Software and Web Development.
-- 🌱 I’m currently learning about Machine Learning and Natural Language Processing models.
-- 💞️ I’m looking to collaborate on any projects involving ML, software, or web development, espcially those using Python or C++.
+- 🌱 I’m currently learning about User Interface/User Experience Design.
+- 💞️ I’m looking to collaborate on any projects involving ML, software, or web development, especially those using Python or C++.
 - 📫 How to reach me: sianna.serio@gmail.com
 
 <!---
